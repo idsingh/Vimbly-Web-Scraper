@@ -2,7 +2,7 @@
 
 ### Prerequisities
 
-Install node & scrappy if not already installed since json2csv, a node module which is used to convert json to csv file.
+Install node & scrapy if not already installed since json2csv, a node module which is used to convert json to csv file.
 
 #### Install json2csv  
 ```sh
