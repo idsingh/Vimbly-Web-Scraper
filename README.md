@@ -14,7 +14,7 @@ npm install -g json2csv
 3. ```
     scrapy crawl vimbly -o output.json
     json2csv -i output.json -o output.csv
-    ```
+```
 4. Output.csv is the output csv file.
 
 
